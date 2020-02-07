@@ -1,0 +1,32 @@
+{
+  "name": "js-chess",
+  "version": "0.0.1",
+  "description": "A modern, improved, chess game manager written in JS, compatible with legacy chess.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/selfish/js-chess.git"
+  },
+  "keywords": [
+    "chess",
+    "checkmate",
+    "chessboard",
+    "check",
+    "mate"
+  ],
+  "author": "Nitai J. Perez (Selfish)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/selfish/js-chess/issues"
+  },
+  "homepage": "https://github.com/selfish/js-chess#readme",
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.8.3",
+    "eslint": "^6.8.0",
+    "eslint-plugin-jest": "^23.6.0",
+    "jest": "^25.1.0"
+  }
+}
