@@ -1,7 +1,7 @@
 {
-  "name": "js-chess",
+  "name": "chess-js",
   "version": "0.0.1",
-  "description": "A modern, improved, chess game manager written in JS, compatible with legacy chess.js",
+  "description": "A modern, Chess game manager written in JS",
   "main": "index.js",
   "scripts": {
     "test": "jest"
